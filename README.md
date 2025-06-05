@@ -6,7 +6,6 @@
 - Thêm, sửa, xóa thông tin sinh viên
 - Tìm kiếm sinh viên theo tên hoặc mã
 - Kiểm tra dữ liệu đầu vào
-- Lưu và đọc dữ liệu từ file (nếu có)
 
 ## 🚀 Cách sử dụng
 1. Tải file ZIP dự án tại repo này
